@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     overflow: hidden;
+
 }
 
 #pic {
@@ -16,7 +17,7 @@
     transform: translate(-50%, -50%);
     color: rgb(216, 35, 35);
     text-align: center;
-    font-size: 40px;
+    font-size: 2rem;
     font-weight: bold;
 }
 
